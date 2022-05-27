@@ -14,7 +14,9 @@ namespace ukol_9_10_11
     {
         public u2()
         {
+            
             InitializeComponent();
+            button3.BackColor = Color.FromArgb(29, 68, 184);
         }
 
         private void SmazCisla(ref string text)
@@ -35,7 +37,7 @@ namespace ukol_9_10_11
             {
                 vstup = vstup.Replace("  ", " ");
             }
-
+           
             SmazCisla(ref vstup);
             
             string[] slova = vstup.Split(' ');
@@ -51,6 +53,14 @@ namespace ukol_9_10_11
             MessageBox.Show("Je dán řetězec slov, každé slovo je odděleno jednou nebo více mezerami. Napište a " +
             "zavolejte metodu, která v řetězci smaže všechny číslice.Řetězec vypište, každé slovo " +
             "napište pod sebe do komponenty ListBox.","INFO",MessageBoxButtons.OK,MessageBoxIcon.Information);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form1 menu = new Form1();
+            this.Hide();
+            menu.ShowDialog();
+            this.Close();
         }
     }
 }

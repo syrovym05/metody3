@@ -20,3 +20,17 @@ G:\PRG\ukol_9_10_11\ukol_9_10_11\obj\Debug\ukol_9_10_11.csproj.CoreCompileInputs
 G:\PRG\ukol_9_10_11\ukol_9_10_11\obj\Debug\ukol_9_10_11.exe
 G:\PRG\ukol_9_10_11\ukol_9_10_11\obj\Debug\ukol_9_10_11.pdb
 G:\PRG\ukol_9_10_11\ukol_9_10_11\obj\Debug\ukol_9_10_11.u2.resources
+C:\Users\marsy\Source\Repos\metody3\ukol_9_10_11\ukol_9_10_11\bin\Debug\ukol_9_10_11.exe.config
+C:\Users\marsy\Source\Repos\metody3\ukol_9_10_11\ukol_9_10_11\bin\Debug\ukol_9_10_11.exe
+C:\Users\marsy\Source\Repos\metody3\ukol_9_10_11\ukol_9_10_11\bin\Debug\ukol_9_10_11.pdb
+C:\Users\marsy\Source\Repos\metody3\ukol_9_10_11\ukol_9_10_11\obj\Debug\ukol_9_10_11.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\metody3\ukol_9_10_11\ukol_9_10_11\obj\Debug\ukol_9_10_11.csproj.SuggestedBindingRedirects.cache
+C:\Users\marsy\Source\Repos\metody3\ukol_9_10_11\ukol_9_10_11\obj\Debug\ukol_9_10_11.Form1.resources
+C:\Users\marsy\Source\Repos\metody3\ukol_9_10_11\ukol_9_10_11\obj\Debug\ukol_9_10_11.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\metody3\ukol_9_10_11\ukol_9_10_11\obj\Debug\ukol_9_10_11.u1.resources
+C:\Users\marsy\Source\Repos\metody3\ukol_9_10_11\ukol_9_10_11\obj\Debug\ukol_9_10_11.u2.resources
+C:\Users\marsy\Source\Repos\metody3\ukol_9_10_11\ukol_9_10_11\obj\Debug\ukol_9_10_11.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\metody3\ukol_9_10_11\ukol_9_10_11\obj\Debug\ukol_9_10_11.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\metody3\ukol_9_10_11\ukol_9_10_11\obj\Debug\ukol_9_10_11.exe
+C:\Users\marsy\Source\Repos\metody3\ukol_9_10_11\ukol_9_10_11\obj\Debug\ukol_9_10_11.pdb
+C:\Users\marsy\Source\Repos\metody3\ukol_9_10_11\ukol_9_10_11\obj\Debug\ukol_9_10_11.u3.resources

@@ -13,8 +13,9 @@ namespace ukol_9_10_11
     public partial class u1 : Form
     {
         public u1()
-        {
+        {           
             InitializeComponent();
+            button2.BackColor = Color.FromArgb(29, 68, 184);
         }
 
         private bool JeAlfanum(TextBox textBox, ref int malapisemna, ref int velkapismena, ref int cisla, ref int ostatni)
@@ -52,6 +53,14 @@ namespace ukol_9_10_11
             MessageBox.Show("Napište metodu JeAlfanum, která pro zadaný řetězec zjistí, zda je alfanumerický " +
             "(obsahuje pouze písmena a číslice), kolik obsahuje malých písmen, kolik obsahuje " +
             "velkých písmen a kolik obsahuje jiných znaků než alfanumerických.", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form1 menu = new Form1();
+            this.Hide();
+            menu.ShowDialog();
+            this.Close();
         }
     }
 }
